@@ -1,0 +1,46 @@
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\UserManagement\bin\Debug\net7.0-windows\UserManagement.exe
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\UserManagement\bin\Debug\net7.0-windows\UserManagement.deps.json
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\UserManagement\bin\Debug\net7.0-windows\UserManagement.runtimeconfig.json
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\UserManagement\bin\Debug\net7.0-windows\UserManagement.dll
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\UserManagement\bin\Debug\net7.0-windows\UserManagement.pdb
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\UserManagement\obj\Debug\net7.0-windows\UserManagement.Form1.resources
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\UserManagement\obj\Debug\net7.0-windows\UserManagement.csproj.GenerateResource.cache
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\UserManagement\obj\Debug\net7.0-windows\UserManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\UserManagement\obj\Debug\net7.0-windows\UserManagement.AssemblyInfoInputs.cache
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\UserManagement\obj\Debug\net7.0-windows\UserManagement.AssemblyInfo.cs
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\UserManagement\obj\Debug\net7.0-windows\UserManagement.csproj.CoreCompileInputs.cache
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\UserManagement\obj\Debug\net7.0-windows\UserManagement.dll
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\UserManagement\obj\Debug\net7.0-windows\refint\UserManagement.dll
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\UserManagement\obj\Debug\net7.0-windows\UserManagement.pdb
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\UserManagement\obj\Debug\net7.0-windows\UserManagement.genruntimeconfig.cache
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\UserManagement\obj\Debug\net7.0-windows\ref\UserManagement.dll
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\UserManagement\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\UserManagement\obj\Debug\net7.0-windows\UserManagement.csproj.AssemblyReference.cache
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\UserManagement\obj\Debug\net7.0-windows\UserManagement.csproj.CopyComplete
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\UserManagement\obj\Debug\net7.0-windows\UserManagement.MainPage.resources
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\UserManagement\obj\Debug\net7.0-windows\UserManagement.RegisterForm.resources
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\UserManagement\obj\Debug\net7.0-windows\UserManagement.UserControl1.resources
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\UserManagement\obj\Debug\net7.0-windows\UserManagement.EditPage.resources
+C:\Users\Rafi\Desktop\tet\UserManagement\bin\Debug\net7.0-windows\UserManagement.exe
+C:\Users\Rafi\Desktop\tet\UserManagement\bin\Debug\net7.0-windows\UserManagement.deps.json
+C:\Users\Rafi\Desktop\tet\UserManagement\bin\Debug\net7.0-windows\UserManagement.runtimeconfig.json
+C:\Users\Rafi\Desktop\tet\UserManagement\bin\Debug\net7.0-windows\UserManagement.dll
+C:\Users\Rafi\Desktop\tet\UserManagement\bin\Debug\net7.0-windows\UserManagement.pdb
+C:\Users\Rafi\Desktop\tet\UserManagement\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Rafi\Desktop\tet\UserManagement\obj\Debug\net7.0-windows\UserManagement.csproj.AssemblyReference.cache
+C:\Users\Rafi\Desktop\tet\UserManagement\obj\Debug\net7.0-windows\UserManagement.EditPage.resources
+C:\Users\Rafi\Desktop\tet\UserManagement\obj\Debug\net7.0-windows\UserManagement.Form1.resources
+C:\Users\Rafi\Desktop\tet\UserManagement\obj\Debug\net7.0-windows\UserManagement.MainPage.resources
+C:\Users\Rafi\Desktop\tet\UserManagement\obj\Debug\net7.0-windows\UserManagement.RegisterForm.resources
+C:\Users\Rafi\Desktop\tet\UserManagement\obj\Debug\net7.0-windows\UserManagement.UserControl1.resources
+C:\Users\Rafi\Desktop\tet\UserManagement\obj\Debug\net7.0-windows\UserManagement.csproj.GenerateResource.cache
+C:\Users\Rafi\Desktop\tet\UserManagement\obj\Debug\net7.0-windows\UserManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafi\Desktop\tet\UserManagement\obj\Debug\net7.0-windows\UserManagement.AssemblyInfoInputs.cache
+C:\Users\Rafi\Desktop\tet\UserManagement\obj\Debug\net7.0-windows\UserManagement.AssemblyInfo.cs
+C:\Users\Rafi\Desktop\tet\UserManagement\obj\Debug\net7.0-windows\UserManagement.csproj.CoreCompileInputs.cache
+C:\Users\Rafi\Desktop\tet\UserManagement\obj\Debug\net7.0-windows\UserManagement.csproj.CopyComplete
+C:\Users\Rafi\Desktop\tet\UserManagement\obj\Debug\net7.0-windows\UserManagement.dll
+C:\Users\Rafi\Desktop\tet\UserManagement\obj\Debug\net7.0-windows\refint\UserManagement.dll
+C:\Users\Rafi\Desktop\tet\UserManagement\obj\Debug\net7.0-windows\UserManagement.pdb
+C:\Users\Rafi\Desktop\tet\UserManagement\obj\Debug\net7.0-windows\UserManagement.genruntimeconfig.cache
+C:\Users\Rafi\Desktop\tet\UserManagement\obj\Debug\net7.0-windows\ref\UserManagement.dll

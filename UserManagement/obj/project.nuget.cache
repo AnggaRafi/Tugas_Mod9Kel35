@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+IkhXxIosDi6FPS6XQ8VbKyWXBpfKb6yWRTDTH1w0wHDE3zyWK5CD0CuIJYiL+8TltH4STbWqFKqnbfgVTG/2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rafi\\Desktop\\tet\\UserManagement\\UserManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
