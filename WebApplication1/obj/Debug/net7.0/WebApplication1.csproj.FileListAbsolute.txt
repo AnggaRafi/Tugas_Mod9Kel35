@@ -1,0 +1,78 @@
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\WebApplication1\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Rafi\Desktop\tet\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Rafi\Desktop\tet\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\Rafi\Desktop\tet\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+C:\Users\Rafi\Desktop\tet\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+C:\Users\Rafi\Desktop\tet\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+C:\Users\Rafi\Desktop\tet\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+C:\Users\Rafi\Desktop\tet\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+C:\Users\Rafi\Desktop\tet\WebApplication1\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\Rafi\Desktop\tet\WebApplication1\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\Rafi\Desktop\tet\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Rafi\Desktop\tet\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Rafi\Desktop\tet\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Rafi\Desktop\tet\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Rafi\Desktop\tet\WebApplication1\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Rafi\Desktop\tet\WebApplication1\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Rafi\Desktop\tet\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rafi\Desktop\tet\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rafi\Desktop\tet\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rafi\Desktop\tet\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Rafi\Desktop\tet\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafi\Desktop\tet\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Rafi\Desktop\tet\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Rafi\Desktop\tet\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Rafi\Desktop\tet\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rafi\Desktop\tet\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rafi\Desktop\tet\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rafi\Desktop\tet\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\Rafi\Desktop\tet\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\Rafi\Desktop\tet\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\Rafi\Desktop\tet\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Rafi\Desktop\tet\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Rafi\Desktop\tet\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Rafi\Desktop\tet\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Rafi\Desktop\tet\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+C:\Users\Rafi\Desktop\tet\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+C:\Users\Rafi\Desktop\tet\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+C:\Users\Rafi\Desktop\tet\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+C:\Users\Rafi\Desktop\tet\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Rafi\Desktop\tet\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
